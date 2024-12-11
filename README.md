@@ -1,5 +1,5 @@
 # KamarHitung API
-API Website Real Quick Count 2024
+API Website Real Quick Count Walikota & Wakil Walikota 2024
 
 ## Description API
 
